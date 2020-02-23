@@ -2,6 +2,6 @@
 
 This repository contains various Image processing concepts related to image filtering, image adjustments, etc. The concepts are illustrated using MATLAB software and OpenCV where ever possible.
 
-Version of Software: MATLAB (2019b) and OpenCV <b> Both the software running on Ubuntu 18.04 LTS </b> 
+Version of Software: MATLAB (2019b) and OpenCV. <b> Both the software running on Ubuntu 18.04 LTS </b> 
 
 All the folders shall contain a README file and the output image result of that concept. 
