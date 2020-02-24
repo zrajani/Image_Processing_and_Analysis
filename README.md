@@ -10,3 +10,4 @@ In this repository we shall be dealing with following types of Images:
 
 1. Gray Scale Image 
 2. Binary Image 
+3. Indexed Images 
