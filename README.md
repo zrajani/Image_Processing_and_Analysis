@@ -9,3 +9,4 @@ All the folders shall contain a README file and the output image result of that 
 In this repository we shall be dealing with following types of Images:
 
 1. Gray Scale Image 
+2. Binary Image 
