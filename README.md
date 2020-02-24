@@ -4,4 +4,8 @@ This repository contains various Image processing concepts related to image filt
 
 Version of Software: MATLAB (2019b) and OpenCV. <b> Both the software running on Ubuntu 18.04 LTS </b> 
 
-All the folders shall contain a README file and the output image result of that concept. 
+All the folders shall contain a README file and the output image result of that concept.
+
+In this repository we shall be dealing with following types of Images:
+
+1. Gray Scale Image 
