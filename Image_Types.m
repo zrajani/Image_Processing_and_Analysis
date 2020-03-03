@@ -14,6 +14,13 @@ clc;
 % values ranging from [0,255] or [0,65535] respectively. If any other class
 % then values remain the same. 
 
+% Note: Values of double and single gray scale image normally are scalled
+% in the range [0,1]; although other ranges can be used.
+
+% Let us see an example of gray scale image. MATLAB has in-built gray scale
+% image such as showing rice.
+
+Gray_scale_image=imread('rice.png');  % Matrix data having gray scale value of class unit8
 %% Binary Images
 
 % Defination: Contains image values of 0's and 1's. 
