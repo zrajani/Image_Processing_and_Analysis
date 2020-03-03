@@ -21,6 +21,8 @@ clc;
 % image such as showing rice.
 
 Gray_scale_image=imread('rice.png');  % Matrix data having gray scale value of class unit8
+
+imshow (Gray_scale_image);   % Displays the gray scale Image
 %% Binary Images
 
 % Defination: Contains image values of 0's and 1's. 
