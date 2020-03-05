@@ -51,3 +51,19 @@ evenElement=A(~L);
 % or any other known data type. 
 
 convert_matrix_1 = im2double(L);
+
+% Note: While using any of the mentioned data type we could use additional
+% parameter such as mentioning the max and minimum; it is like defining the
+% threshold value for classification or conversion.
+%         g=mat2gray(A, [Amin, Amax])
+
+% Here, whatever is less tha Amin in A becomes 0 and whatever value is
+% greater than Amax in A corresponds to 1 in "g" matrix.
+
+% Look at the following example: we have changed our A matrix to illustrate
+% the use in an effective way.
+
+A=[0.2 0.4 0.6 1 0 1 0.8 0.3 0.5];
+convert_matrix_2 = mat2gray(A,[0.5 0.7]);
+
+
