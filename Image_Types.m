@@ -32,6 +32,11 @@ imshow (Gray_scale_image);   % Displays the gray scale Image
 A = [1 -3 2;5 4 7;-8 1 3];
 L = logical(mod(A,2));
 
+% To check if you have sucessfully got a logical matrix or array we use the
+% following command islogical(matrix_or_array_name)
+
+islogical (L);
+
 % To find the odd elements from the list 
 
 oddElement=A(L);
@@ -39,3 +44,4 @@ oddElement=A(L);
 % To find the even elements in the list use the NOT operator 
 
 evenElement=A(~L);
+
