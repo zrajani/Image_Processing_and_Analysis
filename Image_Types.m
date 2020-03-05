@@ -47,5 +47,7 @@ evenElement=A(~L);
 
 % To convert any given logical matrix to any other type of matrix we use
 % following command: B=class_name(A);
-% where class_name could be im2uint8, im2uint16, double, single or mat2gray
+% where class_name could be im2uint8, im2uint16, im2double, im2single or mat2gray
 % or any other known data type. 
+
+convert_matrix_1 = im2double(L);
