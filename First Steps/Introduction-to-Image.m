@@ -13,5 +13,6 @@ imshow(I);
 
 whos I;   % Check how the image appears in the workspace
 
+figure
 imhist(I);   % Checking the image contrast
 
