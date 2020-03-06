@@ -22,3 +22,13 @@ I2 = histeq(I);
 figure
 imshow(I2)
 
+figure
+imhist(I2);    % Image contrast improved histogram
+
+% Write the image to disk
+
+imwrite (I2, 'pout2.png');
+
+% Image Information
+
+imfinfo('pout2.png');
