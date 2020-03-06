@@ -16,3 +16,9 @@ whos I;   % Check how the image appears in the workspace
 figure
 imhist(I);   % Checking the image contrast
 
+% Improve the contrast of the image
+
+I2 = histeq(I);
+figure
+imshow(I2)
+
