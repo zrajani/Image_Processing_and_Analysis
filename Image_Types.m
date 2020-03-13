@@ -1,3 +1,5 @@
+% Author: Zain Rajani
+
 % To illustrate the types of Images 
 
 % A image may be thought of data matrix (ref: basic command image.m file)
