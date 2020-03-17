@@ -13,5 +13,8 @@ clc;
 
 f=imread('office_1.jpg');
 
+image_stats(f);
+
+
 
 
