@@ -6,6 +6,8 @@ clc;
 
 % Basic image processing commands
 
+% All illustrations Lena image is basically used
+
 image_test=imread('Lenna.png');   % imread (filename) gets the image added
                                   % in MATLAB scripts extensions like .jpeg, 
                                   % .png , .jpg file are
