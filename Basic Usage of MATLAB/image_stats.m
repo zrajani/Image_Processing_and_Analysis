@@ -6,4 +6,3 @@ s.AIrows = mean(f,2);
 s.AIcols = mean(f,1);
 
 end
-
