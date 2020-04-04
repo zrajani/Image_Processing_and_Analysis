@@ -1,3 +1,5 @@
+% Function used to find image details
+
 function s = image_stats(f)
 
 s.dm = size(f);
