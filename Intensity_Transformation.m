@@ -15,3 +15,15 @@ f_comp=imcomplement(f);
 
 g1=imadjust(f,[0 1],[1 0]);
 g2=imadjust(f,[0.5 0.75],[1 0],2);
+
+%% Display Images 
+
+figure;
+subplot (2,2,1)
+imshow(f);
+subplot (2,2,2)
+imshow(g1)
+subplot(2,2,3)
+imshow(f_comp)
+subplot(2,2,4)
+imshow(g2)
