@@ -1,5 +1,9 @@
 
-% Initialize
+% Author: Zain Rajani
+% Program Name: Image Intensity Transformation (Monochrome Image)
+
+
+%% Initialize
 clear all;
 close all;
 clc;
