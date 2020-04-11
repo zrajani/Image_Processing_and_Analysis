@@ -12,6 +12,4 @@ In this repository we shall be dealing with following types of Images:
 2. Binary Image 
 3. Indexed Images 
 4. RGB Images (Coloured Image Processing)
-
 5. Filtering of Images
-
