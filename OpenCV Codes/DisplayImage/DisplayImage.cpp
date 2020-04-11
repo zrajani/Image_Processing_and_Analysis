@@ -9,8 +9,11 @@ int main( int argc, char** argv )
       printf( "No image data \n" );
       return -1;
     }
-  namedWindow( "Display Image", WINDOW_AUTOSIZE );
+  namedWindow( "Display Image",WINDOW_AUTOSIZE);
+  // If second argument in the above is 0 then user can resize the image
   imshow( "Display Image", image );
-  waitKey(0);
+  // Delay key instructions will wait for the user if 0 or negative waits indefinitely and
+  // the value is in milliseconds
+  waitKey(5000);
   return 0;
 }
