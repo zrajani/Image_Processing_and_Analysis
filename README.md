@@ -5,6 +5,7 @@ This repository contains various Image processing concepts related to image filt
 Refernces for this repository are:
 
 1. Digital Image Processing with MATLAB,<i> Second Edition </i> **by Rafael Gonsalves and Richard Woods**
+2. Learning OpenCV3 <i> Computer Vision in C++ with OpenCV Library </i> **by Adrian Kaehler & Gary Bradski**
 
 Version of Software: MATLAB (2019b) and OpenCV. <b> Both the software running on Ubuntu 18.04 LTS </b> 
 
