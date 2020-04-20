@@ -1,5 +1,7 @@
 % M- Function Programming 
 
+% Author: Zain Rajani
+
 % Initialise 
 
 clear all;
