@@ -1,3 +1,5 @@
+% Author: Zain Rajani
+
 %Initialize
 
 clc;
