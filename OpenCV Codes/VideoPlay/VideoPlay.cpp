@@ -1,8 +1,8 @@
 /*
- * VideoPlay.cpp
+ * Program Name: VideoPlay.cpp
  *
  *  Created on: Apr. 10, 2020
- *      Author: zain
+ *      Author: Zain Rajani 
  */
 
 #include <opencv2/opencv.hpp>
