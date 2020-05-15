@@ -22,6 +22,7 @@ g2=imadjust(f,[0.5 0.75],[1 0],2);
 
 %% Display Images 
 
+% Diffrent Image operations are shown using the subplot command 
 figure;
 subplot (2,2,1)
 imshow(f);
