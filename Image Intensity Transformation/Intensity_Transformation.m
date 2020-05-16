@@ -9,7 +9,7 @@ close all;
 clc;
 
 %% Reading Image
-f=imread('Jason_membrane.jpg');
+f=imread('Jason_membrane.jpg');  % Can be replaced by any image by your choice (Monochrome Image)
 
 %% Complement of an Image
 
