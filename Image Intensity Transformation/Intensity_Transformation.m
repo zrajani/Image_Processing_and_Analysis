@@ -8,6 +8,8 @@ clear all;
 close all;
 clc;
 
+% imshow('Lena.png');
+
 %% Reading Image
 f=imread('Jason_membrane.jpg');  % Can be replaced by any image by your choice (Monochrome Image)
 
