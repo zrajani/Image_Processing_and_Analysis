@@ -50,5 +50,4 @@ break;
 = -1; cout << "Run mode, run = " << g_run <<endl;}
 27 )
 }
-return(0);
 }
