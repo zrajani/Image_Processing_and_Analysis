@@ -8,6 +8,7 @@ RM := rm -rf
 
 # All of the sources participating in the build are defined here
 -include sources.mk
+-include .metadata/.plugins/org.eclipse.cdt.make.core/subdir.mk
 -include subdir.mk
 -include objects.mk
 
@@ -43,7 +44,7 @@ all: VideoPlay
 VideoPlay: $(OBJS) $(USER_OBJS)
 	@echo 'Building target: $@'
 	@echo 'Invoking: GCC C++ Linker'
-	g++ -L/usr/include/opencv2 -o "VideoPlay" $(OBJS) $(USER_OBJS) $(LIBS)
+	g++ -L/usr/include/opencv2 -L/usr/include/opencv -o "VideoPlay" $(OBJS) $(USER_OBJS) $(LIBS)
 	@echo 'Finished building target: $@'
 	@echo ' '
 

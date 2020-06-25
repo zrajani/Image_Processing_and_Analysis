@@ -6,7 +6,6 @@
  */
 
 #include <opencv2/opencv.hpp>
-#include <iostream>
 #include <opencv2/highgui.hpp>
 #include "opencv2/imgproc/imgproc.hpp"
 
@@ -23,7 +22,7 @@ int main( int argc, char** argv )
 	{
 		cap>>frame;
 		if (frame.empty()) break;  // Out of Frames
-		cv::imshow("Dolby Advertisement",frame);
+		cv::imshow("Dolby Advertisment",frame);
 		if ((char) cv::waitKey(33)>=0) break;
 	}
 
