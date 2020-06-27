@@ -17,6 +17,7 @@ f=imread('Jason_membrane.jpg');  % Can be replaced by any image by your choice (
 
 f_comp=imcomplement(f);
 
+
 %% Intensity Transformation functions
 
 g1=imadjust(f,[0 1],[1 0]);
