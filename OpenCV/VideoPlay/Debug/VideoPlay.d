@@ -1,1 +1,0 @@
-VideoPlay.o: ../VideoPlay.cpp
