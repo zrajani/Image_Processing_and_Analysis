@@ -63,7 +63,7 @@ unzip opencv_contrib.zip
 
 **Build - run actual compilation process**
 
-```make -j4```    _j4 is for processor supporting multi-threading operation if not eliminate it_
+```make -j4```    **_"j4 is for processor supporting multi-threading operation if not eliminate it"_**
 
 ### Verify the Installation
 
@@ -80,6 +80,26 @@ CMake package files will be located in the build root:
 ls OpenCVConfig*.cmake
 ls OpenCVModules.cmake
 ```
+
+### Issues after the Installation
+
+After successful installation of the libraries we tried to run a simple program but encountered a issue #6 
+
+## Alternative just to install all the required Libraries for OpenCV
+
+**_This method was suggested to me by [Dr. Takis Zourntos](https://github.com/takiszourntos)_**
+
+In Ubuntu, the easiest way to get started with OpenCV is as follows:
+
+```sudo apt install libopencv-dev```
+
+This gets you OpenCV ver. 3.2 which is a great place to start!
+
+
+## Working on OpenCV with Eclipse 
+
+
+
 
 
 
