@@ -9,11 +9,11 @@ To start the installation we first need to keep in mind that we need to make sur
 
 If you don't have it already installed use the following commands 
 
-<ul> Install g++
+<ul> Install g++ </ul>
 
 	`sudo apt install -y g++`
 
-<ul> OpenCV uses CMake build configuration tool 
+<ul> OpenCV uses CMake build configuration tool </ul>
 
 	`sudo apt install -y cmake`
 
