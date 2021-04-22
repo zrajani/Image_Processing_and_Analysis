@@ -47,43 +47,39 @@ unzip opencv_contrib.zip
 
 **Create build directory (parent) and switch into it**
 
-	```mkdir -p build && cd build```
+```mkdir -p build && cd build```
 
 **Configure OpenCV Resources**
 
-	```cmake -DOPENCV_EXTRA_MODULES_PATH=../opencv_contrib-master/modules ../opencv-master```
+```cmake -DOPENCV_EXTRA_MODULES_PATH=../opencv_contrib-master/modules ../opencv-master```
 
 **Build and get the Makefile**
 
-	``` cmake --build```    _CMake the current project_
+``` cmake --build```    _CMake the current project_
 
 **Configure - Generate build scripts for the preferred build system**
 
-	``` cmake ../opencv```
+``` cmake ../opencv```
 
 **Build - run actual compilation process**
 
-	```make -j4```    _j4 is for processor supporting multi-threading operation if not eliminate it_
+```make -j4```    _j4 is for processor supporting multi-threading operation if not eliminate it_
 
 ### Verify the Installation
 
 After successful build you will find libraries in the ```build/lib``` directory and executables (test, samples, apps) in the ```build/bin``` directory:
 
-	```
-	ls bin
-
-	ls lib
-
-	```
+```
+ls bin
+ls lib
+```
 
 CMake package files will be located in the build root:
 
-	```
-	ls OpenCVConfig*.cmake
-
-	ls OpenCVModules.cmake
-
-	```
+```
+ls OpenCVConfig*.cmake
+ls OpenCVModules.cmake
+```
 
 
 
