@@ -83,7 +83,7 @@ ls OpenCVModules.cmake
 
 ### Issues after the Installation
 
-After successful installation of the libraries we tried to run a simple program but encountered a issue #6 
+After successful installation of the libraries we tried to run a simple program but encountered a issue [#6](https://github.com/zrajani/Image_Beautification_and_Advancement/issues/6) 
 
 ## Alternative just to install all the required Libraries for OpenCV
 
