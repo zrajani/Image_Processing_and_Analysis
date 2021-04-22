@@ -19,7 +19,7 @@ If you don't have it already installed use the following commands
 
 * CMake can generate scripts for different build systems e.g. make, ninja:
 
-	``` sudo apt install -y make```
+	```sudo apt install -y make```
 
 * Install tool for getting and unpacking sources:
 
@@ -33,16 +33,18 @@ If you don't have it already installed use the following commands
 
 **Install minimal pre-requistes**
 
-	```sudo apt update && sudo apt install -y cmake g++ wget unzip```
+```
+sudo apt update && sudo apt install -y cmake g++ wget unzip
+```
 
 **Download and Unpack OpenCV Resources**
 
-	```
-	wget -O opencv.zip https://github.com/opencv/opencv/archive/master.zip
-	wget -O opencv_contrib.zip https://github.com/opencv/opencv_contrib/archive/master.zip
-	unzip opencv.zip
-	unzip opencv_contrib.zip
-	```
+```wget -O opencv.zip https://github.com/opencv/opencv/archive/master.zip
+wget -O opencv_contrib.zip https://github.com/opencv/opencv_contrib/archive/master.zip
+unzip opencv.zip
+unzip opencv_contrib.zip
+```
+
 **Create build directory (parent) and switch into it**
 
 	```mkdir -p build && cd build```
