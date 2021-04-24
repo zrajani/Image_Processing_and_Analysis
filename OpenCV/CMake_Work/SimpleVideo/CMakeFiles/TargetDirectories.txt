@@ -1,0 +1,3 @@
+/home/zain/Desktop/GITHUB_FILES/Image_Beautification_and_Advancement/OpenCV/CMake_Work/SimpleVideo/CMakeFiles/rebuild_cache.dir
+/home/zain/Desktop/GITHUB_FILES/Image_Beautification_and_Advancement/OpenCV/CMake_Work/SimpleVideo/CMakeFiles/PlayVideo.dir
+/home/zain/Desktop/GITHUB_FILES/Image_Beautification_and_Advancement/OpenCV/CMake_Work/SimpleVideo/CMakeFiles/edit_cache.dir
