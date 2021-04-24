@@ -1,3 +1,0 @@
-/home/zain/Downloads/DisplayImage/CMakeFiles/rebuild_cache.dir
-/home/zain/Downloads/DisplayImage/CMakeFiles/DisplayImage.dir
-/home/zain/Downloads/DisplayImage/CMakeFiles/edit_cache.dir
