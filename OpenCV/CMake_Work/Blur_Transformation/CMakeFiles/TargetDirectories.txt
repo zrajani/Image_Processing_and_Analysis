@@ -1,0 +1,3 @@
+/home/zain/Desktop/GITHUB_FILES/Image_Beautification_and_Advancement/OpenCV/CMake_Work/Blur_Transformation/CMakeFiles/rebuild_cache.dir
+/home/zain/Desktop/GITHUB_FILES/Image_Beautification_and_Advancement/OpenCV/CMake_Work/Blur_Transformation/CMakeFiles/blurr.dir
+/home/zain/Desktop/GITHUB_FILES/Image_Beautification_and_Advancement/OpenCV/CMake_Work/Blur_Transformation/CMakeFiles/edit_cache.dir
