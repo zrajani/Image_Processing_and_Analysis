@@ -9,8 +9,6 @@
 /home/zain/Desktop/GITHUB_FILES/Image_Beautification_and_Advancement/OpenCV/CMake_Work/Blur_Transformation/blurr.cpp
 opencv2/opencv.hpp
 -
-opencv2/imgcodecs.hpp
--
 
 /usr/local/include/opencv4/opencv2/./imgproc/segmentation.hpp
 opencv2/imgproc.hpp

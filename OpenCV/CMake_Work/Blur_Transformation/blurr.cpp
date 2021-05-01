@@ -1,5 +1,6 @@
 # include <opencv2/opencv.hpp>
-# include <opencv2/imgcodecs.hpp>
+//# include <opencv2/imgcodecs.hpp>
+//# include <opencv2/core/types.hpp>
 
 int main (int argc, char** argv )
 {
@@ -23,12 +24,12 @@ int main (int argc, char** argv )
   /* Different Kinds of Blurr: GussianBlur(), blur(), medianBlur(),
   or bilateralFilter().*/
 
-  cv::GaussianBlur(image,out,cv::Size(5,5),3,3);
-  cv::GaussianBlur(out,out,cv::Size(5,5),3,3);
+  cv::blur(image,out,cv::Size(5,5),cv::Point(3,3));
+  cv::blur(out,out,cv::Size(5,5),cv::Point(3,3));
 
   //Show smoothed image
 
-  cv::imwrite("Out.jpg",out);
+  cv::imwrite("Blur.jpg",out);
 
   cv::imshow("Output Image",out);
 
