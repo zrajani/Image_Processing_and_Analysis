@@ -24,12 +24,12 @@ int main (int argc, char** argv )
   /* Different Kinds of Blurr: GussianBlur(), blur(), medianBlur(),
   or bilateralFilter().*/
 
-  cv::blur(image,out,cv::Size(5,5),cv::Point(3,3));
-  cv::blur(out,out,cv::Size(5,5),cv::Point(3,3));
+  cv::medianBlur(image,out,5);
+  cv::medianBlur(out,out,5);
 
   //Show smoothed image
 
-  cv::imwrite("Blur.jpg",out);
+  cv::imwrite("medianBlur.jpg",out);
 
   cv::imshow("Output Image",out);
 
