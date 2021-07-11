@@ -18,5 +18,3 @@ f=imread('office_1.jpg');
 image_details = image_stats(f);
 
 imshow(f)
-
-
