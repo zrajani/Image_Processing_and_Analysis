@@ -94,14 +94,3 @@ In Ubuntu, the easiest way to get started with OpenCV is as follows:
 ```sudo apt install libopencv-dev```
 
 This gets you OpenCV ver. 3.2 which is a great place to start!
-
-
-## Working on OpenCV with Eclipse 
-
-
-
-
-
-
-
-
