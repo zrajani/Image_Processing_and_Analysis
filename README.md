@@ -19,4 +19,4 @@ In this repository we shall be dealing with following types of Images:
 4. RGB Images (Coloured Image Processing)
 5. Filtering of Images
 
-### Note: All the Test Images have been in the file along with the source code incase want to change please do so by giving the path Image or Image name but make sure that code is able to find the images properly.
+Note: All the Test Images have been in the file along with the source code incase want to change please do so by giving the path Image or Image name but make sure that code is able to find the images properly.
