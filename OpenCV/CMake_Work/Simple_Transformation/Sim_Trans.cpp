@@ -1,3 +1,6 @@
+
+// Reference: https://docs.opencv.org/3.4/dc/dd3/tutorial_gausian_median_blur_bilateral_filter.html
+
 #include <iostream>
 #include "opencv2/imgproc.hpp"
 #include "opencv2/imgcodecs.hpp"
