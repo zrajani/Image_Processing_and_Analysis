@@ -10,13 +10,17 @@ set(CMAKE_MAKEFILE_DEPENDS
   "CMakeFiles/3.10.2/CMakeCCompiler.cmake"
   "CMakeFiles/3.10.2/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.10.2/CMakeSystem.cmake"
+<<<<<<< HEAD
   "CMakeFiles/feature_tests.c"
   "CMakeFiles/feature_tests.cxx"
+=======
+>>>>>>> 7ba2d68d84cfdcb43a7700fc15e0eb6e7153e26d
   "CMakeLists.txt"
   "/usr/local/lib/cmake/opencv4/OpenCVConfig-version.cmake"
   "/usr/local/lib/cmake/opencv4/OpenCVConfig.cmake"
   "/usr/local/lib/cmake/opencv4/OpenCVModules-release.cmake"
   "/usr/local/lib/cmake/opencv4/OpenCVModules.cmake"
+<<<<<<< HEAD
   "/usr/share/cmake-3.10/Modules/CMakeCCompiler.cmake.in"
   "/usr/share/cmake-3.10/Modules/CMakeCCompilerABI.c"
   "/usr/share/cmake-3.10/Modules/CMakeCInformation.cmake"
@@ -95,6 +99,21 @@ set(CMAKE_MAKEFILE_DEPENDS
   "/usr/share/cmake-3.10/Modules/FindPackageMessage.cmake"
   "/usr/share/cmake-3.10/Modules/Internal/FeatureTesting.cmake"
   "/usr/share/cmake-3.10/Modules/Platform/Linux-Determine-CXX.cmake"
+=======
+  "/usr/share/cmake-3.10/Modules/CMakeCInformation.cmake"
+  "/usr/share/cmake-3.10/Modules/CMakeCXXInformation.cmake"
+  "/usr/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake"
+  "/usr/share/cmake-3.10/Modules/CMakeGenericSystem.cmake"
+  "/usr/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake"
+  "/usr/share/cmake-3.10/Modules/CMakeSystemSpecificInformation.cmake"
+  "/usr/share/cmake-3.10/Modules/CMakeSystemSpecificInitialize.cmake"
+  "/usr/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+  "/usr/share/cmake-3.10/Modules/Compiler/GNU-C.cmake"
+  "/usr/share/cmake-3.10/Modules/Compiler/GNU-CXX.cmake"
+  "/usr/share/cmake-3.10/Modules/Compiler/GNU.cmake"
+  "/usr/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake"
+  "/usr/share/cmake-3.10/Modules/FindPackageMessage.cmake"
+>>>>>>> 7ba2d68d84cfdcb43a7700fc15e0eb6e7153e26d
   "/usr/share/cmake-3.10/Modules/Platform/Linux-GNU-C.cmake"
   "/usr/share/cmake-3.10/Modules/Platform/Linux-GNU-CXX.cmake"
   "/usr/share/cmake-3.10/Modules/Platform/Linux-GNU.cmake"
@@ -110,11 +129,14 @@ set(CMAKE_MAKEFILE_OUTPUTS
 
 # Byproducts of CMake generate step:
 set(CMAKE_MAKEFILE_PRODUCTS
+<<<<<<< HEAD
   "CMakeFiles/3.10.2/CMakeSystem.cmake"
   "CMakeFiles/3.10.2/CMakeCCompiler.cmake"
   "CMakeFiles/3.10.2/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.10.2/CMakeCCompiler.cmake"
   "CMakeFiles/3.10.2/CMakeCXXCompiler.cmake"
+=======
+>>>>>>> 7ba2d68d84cfdcb43a7700fc15e0eb6e7153e26d
   "CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
