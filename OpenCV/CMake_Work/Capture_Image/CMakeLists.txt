@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+project( Capture_Image )
+find_package( OpenCV REQUIRED )
+add_executable( Camera Input_Image.cpp )
+target_link_libraries( Camera ${OpenCV_LIBS} )

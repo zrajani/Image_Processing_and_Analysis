@@ -1,0 +1,3 @@
+/home/zain/Desktop/GITHUB_FILES/Image_Beautification_and_Advancement/OpenCV/CMake_Work/Capture_Image/CMakeFiles/rebuild_cache.dir
+/home/zain/Desktop/GITHUB_FILES/Image_Beautification_and_Advancement/OpenCV/CMake_Work/Capture_Image/CMakeFiles/Camera.dir
+/home/zain/Desktop/GITHUB_FILES/Image_Beautification_and_Advancement/OpenCV/CMake_Work/Capture_Image/CMakeFiles/edit_cache.dir
