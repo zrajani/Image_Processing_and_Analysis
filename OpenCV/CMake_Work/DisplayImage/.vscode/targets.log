@@ -6,7 +6,7 @@ make all --print-data-base --no-builtin-variables --no-builtin-rules --question
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Sun Jun 12 16:55:38 2022
+# Make data base, printed on Sun Jun 12 17:17:41 2022
 
 # Variables
 
@@ -101,7 +101,7 @@ XDG_SESSION_DESKTOP = ubuntu
 # environment
 SSH_AUTH_SOCK = /run/user/1001/keyring/ssh
 # environment
-GIO_LAUNCHED_DESKTOP_FILE_PID = 2744
+GIO_LAUNCHED_DESKTOP_FILE_PID = 6747
 # automatic
 %F = $(notdir $%)
 # environment
@@ -157,7 +157,7 @@ SHLVL = 1
 # environment
 GNOME_SHELL_SESSION_MODE = ubuntu
 # environment
-VSCODE_IPC_HOOK_EXTHOST = /run/user/1001/vscode-ipc-2d34da0d-11c7-42e2-a854-4f0635c7c243.sock
+VSCODE_IPC_HOOK_EXTHOST = /run/user/1001/vscode-ipc-5c7cbe4b-2544-4525-8d8d-c7cf0643e88b.sock
 # environment
 XDG_SESSION_ID = 7
 # environment
@@ -225,7 +225,7 @@ GJS_DEBUG_OUTPUT = stderr
 # environment
 LANG = C
 # environment
-VSCODE_PID = 2744
+VSCODE_PID = 6747
 # variable set hash-table stats:
 # Load=108/1024=11%, Rehash=0, Collisions=16/142=11%
 
@@ -235,9 +235,9 @@ VSCODE_PID = 2744
 
 # Directories
 
-# . (device 66307, inode 4325830): 11 files, no impossibilities.
+# . (device 66307, inode 4325830): 12 files, no impossibilities.
 
-# 11 files, no impossibilities in 1 directories.
+# 12 files, no impossibilities in 1 directories.
 
 # Implicit Rules
 
@@ -492,12 +492,12 @@ rebuild_cache:
 
 # No general ('VPATH' variable) search path.
 
-# strcache buffers: 1 (0) / strings = 41 / storage = 565 B / avg = 13 B
-# current buf: size = 8162 B / used = 565 B / count = 41 / avg = 13 B
+# strcache buffers: 1 (0) / strings = 42 / storage = 571 B / avg = 13 B
+# current buf: size = 8162 B / used = 571 B / count = 42 / avg = 13 B
 
-# strcache performance: lookups = 151 / hit rate = 72%
+# strcache performance: lookups = 152 / hit rate = 72%
 # hash-table stats:
-# Load=41/8192=1%, Rehash=0, Collisions=2/151=1%
-# Finished Make data base on Sun Jun 12 16:55:38 2022
+# Load=42/8192=1%, Rehash=0, Collisions=2/152=1%
+# Finished Make data base on Sun Jun 12 17:17:41 2022
 
  
