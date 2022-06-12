@@ -1,4 +1,4 @@
-# Install script for directory: /home/zain/Desktop/GITHUB_FILES/Image_Beautification_and_Advancement/OpenCV/CMake_Work/Capture_Image
+# Install script for directory: /home/zain/Desktop/GITHUB_FILES/Image_Processing_and_Analysis/OpenCV/CMake_Work/Capture_Image
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/zain/Desktop/GITHUB_FILES/Image_Beautification_and_Advancement/OpenCV/CMake_Work/Capture_Image/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/zain/Desktop/GITHUB_FILES/Image_Processing_and_Analysis/OpenCV/CMake_Work/Capture_Image/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

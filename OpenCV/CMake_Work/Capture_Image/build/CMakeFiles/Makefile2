@@ -54,10 +54,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/zain/Desktop/GITHUB_FILES/Image_Beautification_and_Advancement/OpenCV/CMake_Work/Capture_Image
+CMAKE_SOURCE_DIR = /home/zain/Desktop/GITHUB_FILES/Image_Processing_and_Analysis/OpenCV/CMake_Work/Capture_Image
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/zain/Desktop/GITHUB_FILES/Image_Beautification_and_Advancement/OpenCV/CMake_Work/Capture_Image/build
+CMAKE_BINARY_DIR = /home/zain/Desktop/GITHUB_FILES/Image_Processing_and_Analysis/OpenCV/CMake_Work/Capture_Image/build
 
 #=============================================================================
 # Target rules for target CMakeFiles/Camera.dir
@@ -66,7 +66,7 @@ CMAKE_BINARY_DIR = /home/zain/Desktop/GITHUB_FILES/Image_Beautification_and_Adva
 CMakeFiles/Camera.dir/all:
 	$(MAKE) -f CMakeFiles/Camera.dir/build.make CMakeFiles/Camera.dir/depend
 	$(MAKE) -f CMakeFiles/Camera.dir/build.make CMakeFiles/Camera.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zain/Desktop/GITHUB_FILES/Image_Beautification_and_Advancement/OpenCV/CMake_Work/Capture_Image/build/CMakeFiles --progress-num=1,2 "Built target Camera"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zain/Desktop/GITHUB_FILES/Image_Processing_and_Analysis/OpenCV/CMake_Work/Capture_Image/build/CMakeFiles --progress-num=1,2 "Built target Camera"
 .PHONY : CMakeFiles/Camera.dir/all
 
 # Include target in all.
@@ -76,9 +76,9 @@ all: CMakeFiles/Camera.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Camera.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/zain/Desktop/GITHUB_FILES/Image_Beautification_and_Advancement/OpenCV/CMake_Work/Capture_Image/build/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/zain/Desktop/GITHUB_FILES/Image_Processing_and_Analysis/OpenCV/CMake_Work/Capture_Image/build/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Camera.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/zain/Desktop/GITHUB_FILES/Image_Beautification_and_Advancement/OpenCV/CMake_Work/Capture_Image/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/zain/Desktop/GITHUB_FILES/Image_Processing_and_Analysis/OpenCV/CMake_Work/Capture_Image/build/CMakeFiles 0
 .PHONY : CMakeFiles/Camera.dir/rule
 
 # Convenience name for target.

@@ -6,7 +6,7 @@ make all --print-data-base --no-builtin-variables --no-builtin-rules --question
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Sun Jun 12 16:54:27 2022
+# Make data base, printed on Sun Jun 12 17:26:51 2022
 
 # Variables
 
@@ -37,7 +37,7 @@ GDMSESSION = ubuntu
 # environment
 XMODIFIERS = @im=ibus
 # makefile
-CURDIR := /home/zain/Desktop/GITHUB_FILES/Image_Beautification_and_Advancement/OpenCV/CMake_Work/Capture_Image
+CURDIR := /home/zain/Desktop/GITHUB_FILES/Image_Processing_and_Analysis/OpenCV/CMake_Work/Capture_Image
 # makefile (from 'Makefile', line 39)
 SHELL = /bin/sh
 # makefile (from 'Makefile', line 45)
@@ -101,7 +101,7 @@ XDG_SESSION_DESKTOP = ubuntu
 # environment
 SSH_AUTH_SOCK = /run/user/1001/keyring/ssh
 # environment
-GIO_LAUNCHED_DESKTOP_FILE_PID = 2744
+GIO_LAUNCHED_DESKTOP_FILE_PID = 7348
 # automatic
 %F = $(notdir $%)
 # environment
@@ -111,7 +111,7 @@ GTK_IM_MODULE = ibus
 # environment
 VSCODE_PIPE_LOGGING = true
 # environment
-PWD = /home/zain/Desktop/GITHUB_FILES/Image_Beautification_and_Advancement/OpenCV/CMake_Work/Capture_Image
+PWD = /home/zain/Desktop/GITHUB_FILES/Image_Processing_and_Analysis/OpenCV/CMake_Work/Capture_Image
 # environment
 XDG_SEAT = seat0
 # environment
@@ -157,7 +157,7 @@ SHLVL = 1
 # environment
 GNOME_SHELL_SESSION_MODE = ubuntu
 # environment
-VSCODE_IPC_HOOK_EXTHOST = /run/user/1001/vscode-ipc-96212c20-1d04-4b8e-8443-807bd1fd0ec9.sock
+VSCODE_IPC_HOOK_EXTHOST = /run/user/1001/vscode-ipc-3a53d54a-618d-4e24-9fa9-86eb8ce26f04.sock
 # environment
 XDG_SESSION_ID = 7
 # environment
@@ -225,7 +225,7 @@ GJS_DEBUG_OUTPUT = stderr
 # environment
 LANG = C
 # environment
-VSCODE_PID = 2744
+VSCODE_PID = 7348
 # variable set hash-table stats:
 # Load=108/1024=11%, Rehash=0, Collisions=16/142=11%
 
@@ -235,7 +235,7 @@ VSCODE_PID = 2744
 
 # Directories
 
-# . (device 66307, inode 4594674): 13 files, no impossibilities.
+# . (device 66307, inode 4856009): 13 files, no impossibilities.
 
 # 13 files, no impossibilities in 1 directories.
 
@@ -290,8 +290,8 @@ Input_Image.cpp.i:
 	$(MAKE) -f CMakeFiles/Camera.dir/build.make CMakeFiles/Camera.dir/Input_Image.cpp.i
 
 Input_Image.cpp.o:
-#  Phony target (prerequisite of .PHONY).
  
+#  Phony target (prerequisite of .PHONY).
 #  Implicit rule search has not been done.
 #  File does not exist.
 #  File has not been updated.
@@ -322,7 +322,7 @@ Camera: cmake_check_build_system
 # Not a target:
 Makefile:
 #  Implicit rule search has been done.
-#  Last modified 2022-05-01 17:15:00.347551791
+#  Last modified 2022-06-12 17:22:38.111989585
 #  File has been updated.
 #  Successfully updated.
 
@@ -498,6 +498,6 @@ rebuild_cache:
 # strcache performance: lookups = 153 / hit rate = 71%
 # hash-table stats:
 # Load=43/8192=1%, Rehash=0, Collisions=2/153=1%
-# Finished Make data base on Sun Jun 12 16:54:27 2022
+# Finished Make data base on Sun Jun 12 17:26:51 2022
 
  

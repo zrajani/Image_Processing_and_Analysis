@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/zain/Desktop/GITHUB_FILES/Image_Beautification_and_Advancement/OpenCV/CMake_Work/Capture_Image/Input_Image.cpp" "/home/zain/Desktop/GITHUB_FILES/Image_Beautification_and_Advancement/OpenCV/CMake_Work/Capture_Image/build/CMakeFiles/Camera.dir/Input_Image.cpp.o"
+  "/home/zain/Desktop/GITHUB_FILES/Image_Processing_and_Analysis/OpenCV/CMake_Work/Capture_Image/Input_Image.cpp" "/home/zain/Desktop/GITHUB_FILES/Image_Processing_and_Analysis/OpenCV/CMake_Work/Capture_Image/build/CMakeFiles/Camera.dir/Input_Image.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

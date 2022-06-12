@@ -1,22 +1,22 @@
 make --dry-run --always-make --keep-going --print-directory
-make: Entering directory '/home/zain/Desktop/GITHUB_FILES/Image_Beautification_and_Advancement/OpenCV/CMake_Work/Capture_Image'
+make: Entering directory '/home/zain/Desktop/GITHUB_FILES/Image_Processing_and_Analysis/OpenCV/CMake_Work/Capture_Image'
 /usr/bin/cmake -H/home/zain/Desktop/GITHUB_FILES/Image_Beautification_and_Advancement/OpenCV/CMake_Work/Capture_Image -B/home/zain/Desktop/GITHUB_FILES/Image_Beautification_and_Advancement/OpenCV/CMake_Work/Capture_Image --check-build-system CMakeFiles/Makefile.cmake 0
 /usr/bin/cmake -E cmake_progress_start /home/zain/Desktop/GITHUB_FILES/Image_Beautification_and_Advancement/OpenCV/CMake_Work/Capture_Image/CMakeFiles /home/zain/Desktop/GITHUB_FILES/Image_Beautification_and_Advancement/OpenCV/CMake_Work/Capture_Image/CMakeFiles/progress.marks
 make -f CMakeFiles/Makefile2 all
-make[1]: Entering directory '/home/zain/Desktop/GITHUB_FILES/Image_Beautification_and_Advancement/OpenCV/CMake_Work/Capture_Image'
+make[1]: Entering directory '/home/zain/Desktop/GITHUB_FILES/Image_Processing_and_Analysis/OpenCV/CMake_Work/Capture_Image'
 make -f CMakeFiles/Camera.dir/build.make CMakeFiles/Camera.dir/depend
-make[2]: Entering directory '/home/zain/Desktop/GITHUB_FILES/Image_Beautification_and_Advancement/OpenCV/CMake_Work/Capture_Image'
+make[2]: Entering directory '/home/zain/Desktop/GITHUB_FILES/Image_Processing_and_Analysis/OpenCV/CMake_Work/Capture_Image'
 cd /home/zain/Desktop/GITHUB_FILES/Image_Beautification_and_Advancement/OpenCV/CMake_Work/Capture_Image && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/zain/Desktop/GITHUB_FILES/Image_Beautification_and_Advancement/OpenCV/CMake_Work/Capture_Image /home/zain/Desktop/GITHUB_FILES/Image_Beautification_and_Advancement/OpenCV/CMake_Work/Capture_Image /home/zain/Desktop/GITHUB_FILES/Image_Beautification_and_Advancement/OpenCV/CMake_Work/Capture_Image /home/zain/Desktop/GITHUB_FILES/Image_Beautification_and_Advancement/OpenCV/CMake_Work/Capture_Image /home/zain/Desktop/GITHUB_FILES/Image_Beautification_and_Advancement/OpenCV/CMake_Work/Capture_Image/CMakeFiles/Camera.dir/DependInfo.cmake --color=
-make[2]: Leaving directory '/home/zain/Desktop/GITHUB_FILES/Image_Beautification_and_Advancement/OpenCV/CMake_Work/Capture_Image'
+make[2]: Leaving directory '/home/zain/Desktop/GITHUB_FILES/Image_Processing_and_Analysis/OpenCV/CMake_Work/Capture_Image'
 make -f CMakeFiles/Camera.dir/build.make CMakeFiles/Camera.dir/build
-make[2]: Entering directory '/home/zain/Desktop/GITHUB_FILES/Image_Beautification_and_Advancement/OpenCV/CMake_Work/Capture_Image'
+make[2]: Entering directory '/home/zain/Desktop/GITHUB_FILES/Image_Processing_and_Analysis/OpenCV/CMake_Work/Capture_Image'
 /usr/bin/cmake -E cmake_echo_color --switch= --green --progress-dir=/home/zain/Desktop/GITHUB_FILES/Image_Beautification_and_Advancement/OpenCV/CMake_Work/Capture_Image/CMakeFiles --progress-num=1 "Building CXX object CMakeFiles/Camera.dir/Input_Image.cpp.o"
 /usr/bin/c++   -isystem /usr/local/include/opencv4  -std=gnu++11 -o CMakeFiles/Camera.dir/Input_Image.cpp.o -c /home/zain/Desktop/GITHUB_FILES/Image_Beautification_and_Advancement/OpenCV/CMake_Work/Capture_Image/Input_Image.cpp
 /usr/bin/cmake -E cmake_echo_color --switch= --green --bold --progress-dir=/home/zain/Desktop/GITHUB_FILES/Image_Beautification_and_Advancement/OpenCV/CMake_Work/Capture_Image/CMakeFiles --progress-num=2 "Linking CXX executable Camera"
 /usr/bin/cmake -E cmake_link_script CMakeFiles/Camera.dir/link.txt --verbose=
-make[2]: Leaving directory '/home/zain/Desktop/GITHUB_FILES/Image_Beautification_and_Advancement/OpenCV/CMake_Work/Capture_Image'
+make[2]: Leaving directory '/home/zain/Desktop/GITHUB_FILES/Image_Processing_and_Analysis/OpenCV/CMake_Work/Capture_Image'
 /usr/bin/cmake -E cmake_echo_color --switch= --progress-dir=/home/zain/Desktop/GITHUB_FILES/Image_Beautification_and_Advancement/OpenCV/CMake_Work/Capture_Image/CMakeFiles --progress-num=1,2 "Built target Camera"
-make[1]: Leaving directory '/home/zain/Desktop/GITHUB_FILES/Image_Beautification_and_Advancement/OpenCV/CMake_Work/Capture_Image'
+make[1]: Leaving directory '/home/zain/Desktop/GITHUB_FILES/Image_Processing_and_Analysis/OpenCV/CMake_Work/Capture_Image'
 /usr/bin/cmake -E cmake_progress_start /home/zain/Desktop/GITHUB_FILES/Image_Beautification_and_Advancement/OpenCV/CMake_Work/Capture_Image/CMakeFiles 0
-make: Leaving directory '/home/zain/Desktop/GITHUB_FILES/Image_Beautification_and_Advancement/OpenCV/CMake_Work/Capture_Image'
+make: Leaving directory '/home/zain/Desktop/GITHUB_FILES/Image_Processing_and_Analysis/OpenCV/CMake_Work/Capture_Image'
  
