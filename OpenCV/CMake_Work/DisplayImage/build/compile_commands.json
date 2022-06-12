@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/zain/Desktop/GITHUB_FILES/Image_Beautification_and_Advancement/OpenCV/CMake_Work/DisplayImage/build",
+  "command": "/usr/bin/g++   -isystem /usr/local/include/opencv4  -g   -std=gnu++11 -o CMakeFiles/DisplayImage.dir/DisplayImage.cpp.o -c /home/zain/Desktop/GITHUB_FILES/Image_Beautification_and_Advancement/OpenCV/CMake_Work/DisplayImage/DisplayImage.cpp",
+  "file": "/home/zain/Desktop/GITHUB_FILES/Image_Beautification_and_Advancement/OpenCV/CMake_Work/DisplayImage/DisplayImage.cpp"
+}
+]

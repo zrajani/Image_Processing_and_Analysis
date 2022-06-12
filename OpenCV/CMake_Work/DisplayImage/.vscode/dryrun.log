@@ -1,0 +1,22 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/zain/Desktop/GITHUB_FILES/Image_Beautification_and_Advancement/OpenCV/CMake_Work/DisplayImage'
+/usr/bin/cmake -H/home/zain/Downloads/DisplayImage -B/home/zain/Downloads/DisplayImage --check-build-system CMakeFiles/Makefile.cmake 0
+/usr/bin/cmake -E cmake_progress_start /home/zain/Downloads/DisplayImage/CMakeFiles /home/zain/Downloads/DisplayImage/CMakeFiles/progress.marks
+make -f CMakeFiles/Makefile2 all
+make[1]: Entering directory '/home/zain/Desktop/GITHUB_FILES/Image_Beautification_and_Advancement/OpenCV/CMake_Work/DisplayImage'
+make -f CMakeFiles/DisplayImage.dir/build.make CMakeFiles/DisplayImage.dir/depend
+make[2]: Entering directory '/home/zain/Desktop/GITHUB_FILES/Image_Beautification_and_Advancement/OpenCV/CMake_Work/DisplayImage'
+cd /home/zain/Downloads/DisplayImage && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/zain/Downloads/DisplayImage /home/zain/Downloads/DisplayImage /home/zain/Downloads/DisplayImage /home/zain/Downloads/DisplayImage /home/zain/Downloads/DisplayImage/CMakeFiles/DisplayImage.dir/DependInfo.cmake --color=
+make[2]: Leaving directory '/home/zain/Desktop/GITHUB_FILES/Image_Beautification_and_Advancement/OpenCV/CMake_Work/DisplayImage'
+make -f CMakeFiles/DisplayImage.dir/build.make CMakeFiles/DisplayImage.dir/build
+make[2]: Entering directory '/home/zain/Desktop/GITHUB_FILES/Image_Beautification_and_Advancement/OpenCV/CMake_Work/DisplayImage'
+/usr/bin/cmake -E cmake_echo_color --switch= --green --progress-dir=/home/zain/Downloads/DisplayImage/CMakeFiles --progress-num=1 "Building CXX object CMakeFiles/DisplayImage.dir/DisplayImage.cpp.o"
+/usr/bin/c++   -isystem /usr/local/include/opencv4  -std=gnu++11 -o CMakeFiles/DisplayImage.dir/DisplayImage.cpp.o -c /home/zain/Downloads/DisplayImage/DisplayImage.cpp
+/usr/bin/cmake -E cmake_echo_color --switch= --green --bold --progress-dir=/home/zain/Downloads/DisplayImage/CMakeFiles --progress-num=2 "Linking CXX executable DisplayImage"
+/usr/bin/cmake -E cmake_link_script CMakeFiles/DisplayImage.dir/link.txt --verbose=
+make[2]: Leaving directory '/home/zain/Desktop/GITHUB_FILES/Image_Beautification_and_Advancement/OpenCV/CMake_Work/DisplayImage'
+/usr/bin/cmake -E cmake_echo_color --switch= --progress-dir=/home/zain/Downloads/DisplayImage/CMakeFiles --progress-num=1,2 "Built target DisplayImage"
+make[1]: Leaving directory '/home/zain/Desktop/GITHUB_FILES/Image_Beautification_and_Advancement/OpenCV/CMake_Work/DisplayImage'
+/usr/bin/cmake -E cmake_progress_start /home/zain/Downloads/DisplayImage/CMakeFiles 0
+make: Leaving directory '/home/zain/Desktop/GITHUB_FILES/Image_Beautification_and_Advancement/OpenCV/CMake_Work/DisplayImage'
+ 
